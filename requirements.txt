@@ -1,0 +1,20 @@
+# Numerical computing and data processing
+numpy>=1.24
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Statistical analysis and portfolio optimization
+scipy>=1.10
+statsmodels>=0.14
+
+# Machine-learning models and evaluation metrics
+scikit-learn>=1.2
+
+# DataFrame styling used by pandas Styler outputs
+jinja2>=3.1
+
+# Notebook environment
+jupyterlab>=4.0
